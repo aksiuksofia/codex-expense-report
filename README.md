@@ -1,5 +1,7 @@
 # Expense Report Generator
 
+[Live app](https://codex-expense-report-svn4nbnebia6tzqvvvn9st.streamlit.app/)
+
 Expense Report Generator is a small learning project for analyzing expense CSV
 files. It validates data, creates Excel reports, shows charts, stores local
 imports in SQLite, and can also run as a simple cloud demo in Streamlit.
@@ -10,12 +12,7 @@ command line.
 
 ## Screenshot
 
-Screenshot placeholder:
-
-```text
-Add a screenshot here after the app is published.
-Example: docs/screenshot.png
-```
+![Expense Report Generator screenshot](docs/app_screenshot.png)
 
 ## Main Features
 
