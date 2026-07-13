@@ -1,0 +1,5 @@
+date,category,description,amount
+,Food,Missing date,12.50
+2026-06-11,Transport,Text instead of amount,abc
+2026-06-12,Health,Negative amount,-20.00
+2026-06-13,,Missing category,15.75

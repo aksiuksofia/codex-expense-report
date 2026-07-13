@@ -1,0 +1,42 @@
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Temporary operating system files
+*.tmp
+*.temp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# Generated reports, uploaded files, and local logs
+output/
+*.log
+
+# Local SQLite databases
+data/expenses.db
+data/*.db
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*.json
+*secret*.json
+
+# Local IDE settings
+.vscode/
+.idea/
+*.code-workspace
